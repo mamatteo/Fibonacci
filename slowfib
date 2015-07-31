@@ -1,0 +1,3 @@
+slowfib 0 = 0
+slowfib 1 = 1
+slowfib n = slowfib (n-1) + slowfib (n-2)
